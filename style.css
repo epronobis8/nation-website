@@ -1,0 +1,36 @@
+header {
+    display: flex;
+    gap: 10px;
+    justify-content: flex-end;
+}
+
+.section h1 {
+    float: right;
+    text-align: center;
+    margin-top: 25%;
+}
+
+#bnation {
+    height: 50%;
+    width: 50%;
+}
+
+.about {
+    clear: both;
+    float: inline-end;
+    text-align: center;
+    background-color: lightpink;
+}
+
+#tsl {
+    height: 60%;
+    width: 40%;
+    object-position: 50% 50%;
+    float: right;
+}
+
+#tsl-test h3,
+h4,
+h5 {
+    text-align: center;
+}
